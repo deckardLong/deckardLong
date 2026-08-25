@@ -1,4 +1,4 @@
-<h1 align="left">Nguyễn Hồ Giang Long (Deckard)</h1>
+<h1 align="left">Nguyen Ho Giang Long (Deckard)</h1>
 
 **AI Engineer** — Computer Science student at Ho Chi Minh City Open University (HCMOU)
 
